@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+hosted here https://react-landing-page-heroku.herokuapp.com/
 
 In the project directory, you can run:
 
